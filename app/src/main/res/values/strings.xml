@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="paper_scissors_and_rock">Paper, Scissors and Rock</string>
+    <string name="start">Jogar</string>
+    <string name="help">Ajuda</string>
+    <string name="use_card">Usar Carta</string>
+    <string name="computer">Computador</string>
+    <string name="help_text">Bem-vindo à seção de ajuda sobre os tipos de cartas! Aqui você encontrará uma explicação detalhada sobre o que cada tipo de carta faz no jogo. Entender as diferentes categorias ajudará você a jogar de maneira mais estratégica e eficiente.</string>
+    <string name="rock_titan">Rock Titan</string>
+    <string name="descricaoRockTitan">Quando este card é ativado, você pode destruir 1 monstro \'ScissorBlade\', se este card for atacado por um monstro \'Paper Sage\' é destruido</string>
+    <string name="paper_sage">Paper Sage</string>
+    <string name="descricaoPaperSage">Quando este card é ativado, você pode destruir 1 monstro \'Rock Titan\', se este card for atacado por um monstro \'Scissor Blade\' é destruido</string>
+    <string name="scissor_blade">Scissor Blade</string>
+    <string name="descricaoScissorBlade">Quando este card é ativado, você pode destruir 1 monstro \'Paper sage\', se este card for atacado por um monstro \'Rock Titan\' é destruido</string>
+    <string name="historyRockTitan">O Rock Titan, um gigante de pedra forjado pelos deuses, guarda os segredos e o poder da terra. Com força imensurável, ele esmaga seus inimigos e inspira seus aliados. Enfrentá-lo é desafiar a própria terra.</string>
+    <string name="historyPaperSage">O sábio do papel, com suas estratégias sutis, pode envolver e neutralizar a força bruta da rocha. no entanto, sua delicadeza o torna vulnerável às lâminas afiadas</string>
+    <string name="HistoryScissorBlade">Com lâminas afiadas e preciso implacável, o Scissor blade corta atravès de qualquer obstáculo em seu caminho. no entanto, na sua força limitada quando confrontada com a solidez imponente da rocha</string>
+    <string name="you_lose">Game over</string>
+    <string name="game_over">Melhore suas estratégias e tente novamente!</string>
+    <string name="you_win">Você venceu!!</string>
+    <string name="nah_id_win">Vitória conquistada com sucesso! Você é incrível</string>
+    <string name="to_start">Começar</string>
+</resources>
